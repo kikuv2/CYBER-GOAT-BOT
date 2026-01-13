@@ -24,14 +24,14 @@
     "autoUseWhenEmpty": true
   },
   "bioUpdate": {
-    "enable": false,
+    "enable": true,
     "bioText": "",
     "updateOnce": true
   },
-  "antiInbox": false,
+  "antiInbox": true,
   "language": "en",
-  "nickNameBot": "𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓 ᵁᴸᴸᴬˢᴴ",
-  "prefix": "!",
+  "nickNameBot": "— mahim 🍒🍓 ‧₊˚🩰🍃 ",
+  "prefix": ".",
   "usePrefix": {
     "enable": true,
     "adminUsePrefix": {
@@ -50,14 +50,14 @@
     ]
   },
   "adminBot": [
-    "100082395531611",
+    "100088769563815",
     "100015168369582"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
       "100082395531611",
-      "100015168369582"
+      "100088769563815"
     ]
   },
   "whiteListModeThread": {
@@ -123,7 +123,7 @@
     },
     "sendToAdmin": {
       "enable": false,
-      "adminId": ""
+      "adminId": "100088769563815"
     },
     "message": "🤖 Bot is now online and ready to serve!"
   },
@@ -139,7 +139,7 @@
     "enable": false,
     "sendToThreads": true,
     "logThreadIds": [],
-    "sendToAdmins": false,
+    "sendToAdmins": true,
     "silentOnDisabledThreads": true,
     "logBotAdded": false,
     "logBotKicked": true
